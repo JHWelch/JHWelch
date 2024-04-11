@@ -7,13 +7,14 @@
 ### I'm currently working...
 
 #### on...
-- [Encrypted Env Viewer for Laravel](https://github.com/JHWelch/encrypted-env-viewer): Chrome Extension for viewing the diff of an encrypted Laravel `.env` file.
-- [movies.wowellworld.com](https://github.com/JHWelch/movies.wowellworld.com): An express app written with TypeScript and a light AlpineJS/EJS frontend for displaying info from a Notion database backend.
+- [games.wowellworld.com](https://github.com/JHWelch/games.wowellworld.com): Simple Vue app deployed with GitHub pages to track playing daily games.
+- [movies.wowellworld.com](https://github.com/JHWelch/movies.wowellworld.com): A mono-repo Express Server & Vue Client written with TypeScript and a frontend for displaying info from a Notion database/Firestore backend.
 - [ChoreManager](https://github.com/JHWelch/ChoreManager): A WebApp for managing chores for a household.
 - [chore_manager_mobile](https://github.com/JHWelch/chore_manager_mobile): The mobile app companion for ChoreManager
 - [MMM-CTA](https://github.com/JHWelch/MMM-CTA): A [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) Module for displaying Chicago Transit arrival times.
 
 #### with...
+- Vue
 - Dart/Flutter
 - Laravel
 - Laravel Livewire
