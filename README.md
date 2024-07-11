@@ -14,10 +14,11 @@
 - [MMM-CTA](https://github.com/JHWelch/MMM-CTA): A [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) Module for displaying Chicago Transit arrival times.
 
 #### with...
-- Vue
-- Dart/Flutter
-- Laravel
-- Laravel Livewire
-- Alpine.js
-- Tailwind
-- TypeScript
+- [TypeScript](https://github.com/search?q=user%3Ajhwelch+topic%3Atypescript&type=repositories)
+- [Vue](https://github.com/search?q=user%3Ajhwelch+topic%3Avue&type=repositories)
+- [Laravel](https://github.com/search?q=user%3Ajhwelch+topic%3Alaravel&type=repositories)
+- [Laravel Livewire](https://github.com/search?q=user%3Ajhwelch+topic%3Alivewire&type=repositories)
+- [Dart/Flutter](https://github.com/search?q=user%3Ajhwelch+topic%3Aflutter&type=repositories)
+- [Alpine.js](https://github.com/search?q=user%3Ajhwelch+topic%3Aalpine&type=repositories)
+- [Tailwind](https://github.com/search?q=user%3Ajhwelch+topic%3Atailwind&type=repositories)
+
