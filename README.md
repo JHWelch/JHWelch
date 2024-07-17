@@ -18,7 +18,7 @@
 - [Vue](https://github.com/search?q=user%3Ajhwelch+topic%3Avue&type=repositories)
 - [Laravel](https://github.com/search?q=user%3Ajhwelch+topic%3Alaravel&type=repositories)
 - [Laravel Livewire](https://github.com/search?q=user%3Ajhwelch+topic%3Alivewire&type=repositories)
-- [Dart/Flutter](https://github.com/search?q=user%3Ajhwelch+topic%3Aflutter&type=repositories)
+- [Dart / Flutter](https://github.com/search?q=user%3Ajhwelch+topic%3Aflutter&type=repositories)
 - [Alpine.js](https://github.com/search?q=user%3Ajhwelch+topic%3Aalpine&type=repositories)
 - [Tailwind](https://github.com/search?q=user%3Ajhwelch+topic%3Atailwind&type=repositories)
 
