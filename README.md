@@ -1,6 +1,6 @@
 ## Howdy! 
 
-### I'm currently exited about...
+### I'm currently excited about...
 - Test Driven Development
 - Behavior Driven Development
 
